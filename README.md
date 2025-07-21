@@ -12,3 +12,8 @@ Tools used:
 ARCHITECTURE:
 <img width="1182" height="479" alt="Your paragraph text (2)" src="https://github.com/user-attachments/assets/db9f911e-7afe-4fc3-92ae-7ed5ae22a280" />
 
+OUTPUT:
+Total score out of 5:
+5 → Strong 💪
+3-4 → Medium ⚠️
+0-2 → Weak ❌
